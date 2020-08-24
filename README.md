@@ -1,4 +1,4 @@
-# Drink Me Bottle
+# Drink Me Bottle - Indonesia Maju Hackfest Hackathon
 
 Bangun kebiasaan rutin minum air 2-3 liter/hari dengan cara yang menyenangkan menggunakan "Drink Me Bottle Apps" 
 
